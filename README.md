@@ -1,4 +1,4 @@
-# JAAI_Handwritten_Recognition
+# Handwritten_Recognition
 
 This is a handwritten recognition api. For current, it can detect line text from single line img. It used **Gated CNN** as encoder and **Multi head attention model** as decoder.
 
